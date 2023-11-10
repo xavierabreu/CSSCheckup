@@ -9,7 +9,7 @@
 }
 
 #background {
-    background-image: url("./assets/abstract-background.jpg");
+    background: white ;
 }
 
 h1 {
@@ -18,8 +18,10 @@ h1 {
 
 p {
     font-family: fantasy;
+    font: bolder;
 }
 
 #border {
+    border: 2px blue;
     border-style: dotted;
 }
